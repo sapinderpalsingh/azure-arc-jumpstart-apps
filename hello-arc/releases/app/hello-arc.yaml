@@ -18,4 +18,4 @@ spec:
     replicaCount: 4
     env:
       name: MESSAGE
-      value: Working from noida office!
+      value: Working from home office!
